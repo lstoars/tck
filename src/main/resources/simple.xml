@@ -1,0 +1,16 @@
+<tickets>
+	<!-- 起始站 -->
+	<fromStationName>上海南</fromStationName>
+	<!-- 到达站 -->
+	<toStationName>长沙</toStationName>
+	<!-- 车次 -->
+	<trainCode>D105</trainCode>
+	<!-- 乘车日期 -->
+	<date>2012-01-20</date>
+	<!-- 乘车人一次最多为5个 -->
+	<persons>
+		<person name="何成飞" cardCode="430124198709133293" phone="18607316432" />
+	</persons>
+	<seatTyp>
+	</seatTyp>
+</tickets>

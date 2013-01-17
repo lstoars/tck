@@ -1,0 +1,16 @@
+station_train_code=850000T11460
+train_date=2011-12-30
+seattype_num=
+from_station_telecode=KSH
+to_station_telecode=HZH
+include_student=00
+from_station_telecode_name=À¥É½
+to_station_telecode_name=º¼ÖÝ
+round_train_date=2011-12-29
+round_start_time_str=00:00--24:00
+single_round_type=1
+train_pass_type=
+train_class_arr=
+start_time_str=1
+train_start_time=14:00
+lishi=187

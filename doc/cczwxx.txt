@@ -1,0 +1,18 @@
+--动车或者高铁
+<select name="orderRequest.seat_type_code" id="seatType" style="width:90px">
+	<option value="4">软卧</option>
+	<option value="6">高级软卧</option>
+	<option value="9">商务座</option>
+	<option value="M">一等座</option>
+	<option value="O" selected="selected">二等座</option>
+	<option value="P">特等座</option>
+	<option value="Q">观光座</option>
+	<option value="S">一等包座</option>
+</select></td>
+
+
+<select name="passenger_5_seat" id="passenger_5_seat" disabled="disabled">
+  <option value="3">硬卧</option>
+  <option value="1">硬座</option>
+  <option value="4">软卧</option>
+</select>

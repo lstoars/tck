@@ -1,0 +1,14 @@
+#出发站
+fromStationName=上海
+#到达站
+toStationName=长沙
+#车次
+trainCode=K137
+#乘车日期
+date=2012-09-26
+#乘车人，格式为“姓名，身份证，手机号码，座位类型(参见车次座位信息.txt)”
+person_1=何成飞,430124XXXXXXXX3,18607316432,3
+person_2=
+person_3=
+person_4=
+person_5=

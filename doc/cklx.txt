@@ -1,0 +1,6 @@
+<select name="passenger_5_ticket" id="passenger_5_ticket" disabled="disabled">
+	<option value="1">成人票</option>
+	<option value="2">儿童票</option>
+	<option value="3">学生票</option>
+	<option value="4">残军票</option>
+</select>

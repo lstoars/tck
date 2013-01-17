@@ -1,0 +1,14 @@
+SHH -- 上海
+SNH -- 上海南
+AOH -- 上海虹桥
+XHH -- 杭州南
+HZH -- 杭州
+CSQ -- 长沙
+ZZQ -- 株洲
+HHQ -- 怀化
+PXG -- 萍乡
+HYQ -- 衡阳
+LLG -- 醴陵
+SYQ -- 邵阳
+QRQ -- 祁东
+LDQ -- 娄底
